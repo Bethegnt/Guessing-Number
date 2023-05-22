@@ -1,5 +1,6 @@
 # Guessing-Number
 ![](https://komarev.com/ghpvc/?username=Bethegnt&label=Project+Views)
+## Which is generally a mini plateform that gives you an opportunity to guess whether your number matches with a random number or not. 
 ### This is snippet of the Running Project in UiPath Using RPA Technology:
 ![Screenshot (32)](https://github.com/Bethegnt/Guessing-Number/assets/106432362/9e1f8ce8-ec7e-4712-a59d-5d36fe7c7848)
 
